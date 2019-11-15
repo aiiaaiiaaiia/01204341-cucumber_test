@@ -5,4 +5,4 @@ Background:
 
 Scenario: Deposit money
 	When I deposit 450 Baht into my account
-	Then Amount of money in my account should be 5100 Baht
+	Then Amount of money in my account should be 6000 Baht
